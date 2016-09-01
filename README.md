@@ -8,4 +8,7 @@
 4. Filter for Matches/Mismatches
 5. Copy a list of Sierra permissions to clipboard and update permissions in Sierra
 
-[View Other Code from Georgetown University Library] (https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases)
+
+***
+[![Georgetown University Library IT Code Repositories](https://raw.githubusercontent.com/Georgetown-University-Libraries/georgetown-university-libraries.github.io/master/LIT-logo-small.png)Georgetown University Library IT Code Repositories](http://georgetown-university-libraries.github.io/)
+
